@@ -100,3 +100,4 @@ c:\Users\PERSONAL\Desktop\INTRO PROGRA\Exa3\Calculadora.Tests\obj\Debug\net8.0\r
 c:\Users\PERSONAL\Desktop\INTRO PROGRA\Exa3\Calculadora.Tests\obj\Debug\net8.0\Calculadora.Tests.pdb
 c:\Users\PERSONAL\Desktop\INTRO PROGRA\Exa3\Calculadora.Tests\obj\Debug\net8.0\Calculadora.Tests.genruntimeconfig.cache
 c:\Users\PERSONAL\Desktop\INTRO PROGRA\Exa3\Calculadora.Tests\obj\Debug\net8.0\ref\Calculadora.Tests.dll
+c:\Users\PERSONAL\Desktop\INTRO PROGRA\Exa3\Calculadora.Tests\obj\Debug\net8.0\Calculadora.Tests.sourcelink.json

@@ -9,3 +9,4 @@ c:\Users\PERSONAL\Desktop\INTRO PROGRA\Exa3\Calculadora\obj\Debug\net8.0\Calcula
 c:\Users\PERSONAL\Desktop\INTRO PROGRA\Exa3\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
 c:\Users\PERSONAL\Desktop\INTRO PROGRA\Exa3\Calculadora\obj\Debug\net8.0\Calculadora.pdb
 c:\Users\PERSONAL\Desktop\INTRO PROGRA\Exa3\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
+c:\Users\PERSONAL\Desktop\INTRO PROGRA\Exa3\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
